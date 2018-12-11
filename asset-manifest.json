@@ -1,14 +1,14 @@
 {
-  "main.css": "/sample-site/projects/basic-progress-bar/static/css/main.a42e997f.chunk.css",
-  "main.js": "/sample-site/projects/basic-progress-bar/static/js/main.4d52efe1.chunk.js",
-  "main.js.map": "/sample-site/projects/basic-progress-bar/static/js/main.4d52efe1.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "/sample-site/projects/basic-progress-bar/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "/sample-site/projects/basic-progress-bar/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "/sample-site/projects/basic-progress-bar/static/js/runtime~main.4e3bade2.js",
-  "runtime~main.js.map": "/sample-site/projects/basic-progress-bar/static/js/runtime~main.4e3bade2.js.map",
-  "static/media/logo.svg": "/sample-site/projects/basic-progress-bar/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a42e997f.chunk.css.map": "/sample-site/projects/basic-progress-bar/static/css/main.a42e997f.chunk.css.map",
-  "index.html": "/sample-site/projects/basic-progress-bar/index.html",
-  "precache-manifest.bc9566f6783922b174b1899e0403f729.js": "/sample-site/projects/basic-progress-bar/precache-manifest.bc9566f6783922b174b1899e0403f729.js",
-  "service-worker.js": "/sample-site/projects/basic-progress-bar/service-worker.js"
+  "main.css": "/basic-progress-bar/static/css/main.a42e997f.chunk.css",
+  "main.js": "/basic-progress-bar/static/js/main.f7b7e562.chunk.js",
+  "main.js.map": "/basic-progress-bar/static/js/main.f7b7e562.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/basic-progress-bar/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/basic-progress-bar/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/basic-progress-bar/static/js/runtime~main.5950919c.js",
+  "runtime~main.js.map": "/basic-progress-bar/static/js/runtime~main.5950919c.js.map",
+  "static/media/logo.svg": "/basic-progress-bar/static/media/logo.5d5d9eef.svg",
+  "static/css/main.a42e997f.chunk.css.map": "/basic-progress-bar/static/css/main.a42e997f.chunk.css.map",
+  "index.html": "/basic-progress-bar/index.html",
+  "precache-manifest.c9ec7f2f71287b1caa3e5fe645bb6473.js": "/basic-progress-bar/precache-manifest.c9ec7f2f71287b1caa3e5fe645bb6473.js",
+  "service-worker.js": "/basic-progress-bar/service-worker.js"
 }
