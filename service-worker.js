@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "dx8519.github.io/sample-site/projects/basic-progress-bar/precache-manifest.5fccca10f20985a17bec7adf7cb2caba.js"
+  "/sample-site/projects/basic-progress-bar/precache-manifest.bc9566f6783922b174b1899e0403f729.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("dx8519.github.io/sample-site/projects/basic-progress-bar/index.html", {
+workbox.routing.registerNavigationRoute("/sample-site/projects/basic-progress-bar/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
